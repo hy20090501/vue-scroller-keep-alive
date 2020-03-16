@@ -7,7 +7,6 @@ Vue.use(Router);
 
 const router = new Router({
   mode: 'hash',
-  // base: '/home',
   routes: [
     {
       path: '/',
